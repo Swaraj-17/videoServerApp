@@ -1,1 +1,1 @@
-# videoServerApp
+# Video Server Application
